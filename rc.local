@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bash /home/owen/boot_run_distcc.sh
